@@ -1,4 +1,4 @@
-# skull — Cybersecurity & OSINT Automation
+# skull — Cybersecurity, Automation, Tooling, LLMs
 
 Whitehat hacker • Blue-Team tooling • CTF lead (Trave Tricksters Legion)  
 I build small, sharp tools for defenders and automate OSINT end-to-end.
