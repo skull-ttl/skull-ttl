@@ -16,3 +16,4 @@ I build small purple tools.
 ## Contact
 - Site: https://ttl.zip  
 - Email: skull@ttl.zip
+![TTL Logo](ttl_logo.png)
