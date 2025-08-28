@@ -1,6 +1,4 @@
-# skull — Cybersecurity, Purple, Automation, Tooling, LLMs
-
-Whitehat hacker • Purple-Team tooling • CTF lead (Trave Tricksters Legion)  
+# skull — Cybersecurity | Purple-Team tooling & Automation | CTF lead (Trave Tricksters Legion)  
 I build small purple tools.
 
 ## Selected Work
