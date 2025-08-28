@@ -1,16 +1,18 @@
-## Hi there 👋
+# skull — Cybersecurity & OSINT Automation
 
-<!--
-**skull-ttl/skull-ttl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Whitehat hacker • Blue-Team tooling • CTF lead (Trave Tricksters Legion)  
+I build small, sharp tools for defenders and automate OSINT end-to-end.
 
-Here are some ideas to get you started:
+## Selected Work
+- **DNS Cache Malicious Domain Checker** — Windows triage tool: fetches URLhaus/OpenPhish/StevenBlack and cross-checks your DNS cache.  
+  → Repo: https://github.com/skull-ttl/dns-checker
+- **TTL VM Setup** — One-shot CTF workstation bootstrap (Kali/Ubuntu): wordlists optional, quality-of-life tooling, WaveTerm/RustDesk support.  
+  → Repo: https://github.com/skull-ttl/vm-setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focusing on
+- Security Automating/Engineering
+- OSINT automation (LLMs + evidence pipelines), GPU local inference, blue-team utilities.
+
+## Contact
+- Site: https://ttl.zip  
+- Email: skull@ttl.zip
