@@ -1,4 +1,7 @@
 # skull — ⚡ Cybersecurity | Purple-Team tooling & Automation | CTF lead (Trave Tricksters Legion) 
+
+I build practical purple-team tools. 🔮
+
 ## Selected Work
 - **DNS Cache Malicious Domain Checker** — Windows triage tool: fetches URLhaus/OpenPhish/StevenBlack and cross-checks your DNS cache.  
   → Repo: https://github.com/skull-ttl/dns-checker
@@ -10,8 +13,8 @@
 - OSINT automation (LLMs + evidence pipelines), GPU local inference, blue-team utilities.
 
 ## Contact
-- Site: https://ttl.zip  
-- Email: skull@ttl.zip
+- 🌐 [ttl.zip](https://ttl.zip)  
+- 📧 [skull@ttl.zip](mailto:skull@ttl.zip)
 
 ##
 
