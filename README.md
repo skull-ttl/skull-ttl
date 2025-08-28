@@ -19,5 +19,5 @@ I build small purple tools.
 
 ##
 
-- ![TTL Logo](https://raw.githubusercontent.com/skull-ttl/skull-ttl/main/assets/logo.png)
+![TTL Logo](https://raw.githubusercontent.com/skull-ttl/skull-ttl/main/assets/logo.png)
 
