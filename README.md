@@ -1,7 +1,7 @@
-# skull — Cybersecurity, Automation, Tooling, LLMs
+# skull — Cybersecurity, Purple, Automation, Tooling, LLMs
 
-Whitehat hacker • Blue-Team tooling • CTF lead (Trave Tricksters Legion)  
-I build small, sharp tools for defenders and automate OSINT end-to-end.
+Whitehat hacker • Purple-Team tooling • CTF lead (Trave Tricksters Legion)  
+I build small purple tools.
 
 ## Selected Work
 - **DNS Cache Malicious Domain Checker** — Windows triage tool: fetches URLhaus/OpenPhish/StevenBlack and cross-checks your DNS cache.  
