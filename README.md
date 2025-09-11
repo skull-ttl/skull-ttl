@@ -11,6 +11,7 @@ I build practical purple-team tools. 🔮
   → Repo: https://github.com/skull-ttl/DLaL
 ## What I’m focusing on
 - Security Automating/Engineering
+- Integration of LLMs into Security workflows/tools
 - OSINT automation (LLMs + evidence pipelines), GPU local inference, blue-team utilities.
 
 ## Contact
