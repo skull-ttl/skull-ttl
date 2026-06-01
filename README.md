@@ -13,7 +13,7 @@ I build practical purple-team tools. 🔮
 - Security Automating/Engineering
 - Integration of LLMs into Security workflows/tools
 - OSINT automation (LLMs + evidence pipelines), GPU local inference, blue-team utilities.
-## Intrests in
+## Interests in
 - Windows & AD
 - AI -> LLMs
 - Social Engineering
