@@ -12,12 +12,12 @@ I build practical purple-team tools. 🔮
 ## What I’m focusing on
 - Security Automating/Engineering
 - Integration of LLMs into Security workflows/tools
-- OSINT automation (LLMs + evidence pipelines), GPU local inference, blue-team utilities.
+- Attacking AI/LLMs
 ## Interests in
-- Windows & AD
-- AI -> LLMs
-- Social Engineering
+- ML/AI/LLMs
 - Web
+- Windows & AD
+- Social Engineering
 ## Contact
 - 🌐 [ttl.zip](https://ttl.zip)  
 - 📧 [skull@ttl.zip](mailto:skull@ttl.zip)
