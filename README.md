@@ -5,7 +5,7 @@ I build practical purple-team tools. 🔮
 ## Selected Work
 - **DNS Cache Malicious Domain Checker** — Windows triage tool: fetches URLhaus/OpenPhish/StevenBlack and cross-checks your DNS cache.  
   → Repo: https://github.com/skull-ttl/dns-checker
-- **Jail-Stresser** — A recon / behavioral-mapping tool for LLM endpoints. 
+- **Jail-Stresser** — A recon / behavioral-mapping tool for LLM endpoints. Point it at a chat model and get back a map of how that target behaves.
   → Repo: (https://github.com/skull-ttl/Jail-Stresser)
 - **DLaL** — Domain Look a Like finder. Looks for Domains that could be targeting your domain for Phishing/Typosquatting  
   → Repo: https://github.com/skull-ttl/DLaL
