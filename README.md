@@ -3,9 +3,9 @@
 I build practical purple-team tools. 🔮
 
 ## Selected Work
-- **Jail-Stresser** — A recon / behavioral-mapping tool for LLM endpoints. Point it at a chat model and get back a map of how that target behaves.
+- **Jail-Breaker** — A recon / behavioral-mapping tool for LLM endpoints. Point it at a chat model and get back a map of how that target behaves.
 
-  → Repo: https://github.com/skull-ttl/Jail-Stresser
+  → Repo: https://github.com/skull-ttl/Jail-Breaker
   
 - **DNS Cache Malicious Domain Checker** — Windows triage tool: fetches URLhaus/OpenPhish/StevenBlack and cross-checks your DNS cache.  
 
